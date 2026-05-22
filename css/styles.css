@@ -330,6 +330,19 @@ h1.heading {
     margin-left: auto;
 }
 
+.course-item .course-btn-2 {
+    min-width: 66px;
+    height: 32px;
+    padding: 0 8px;
+    border-radius: 30px;
+    color: var(--white);
+    background-color: var(--primary);
+    text-decoration: none;
+    line-height: 32px;
+    text-align: center;
+    margin-left: auto;
+    font-weight: 700;
+}
 /* Pagination */
 .pagination-list {
     display: flex;
